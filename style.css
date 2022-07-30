@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background: rgb(243, 220, 171);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+main.cards {
+    display: flex;
+    padding: 32px;
+    margin-bottom: 20px;
+}
+
+section.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background: white;
+    padding: 2.5rem 2.5rem;
+}
+
+section.card:first-child {
+    
+    background-color: rgb(211, 160, 31);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+}
+
+.card:nth-child(2) {
+    background-color: rgb(156, 38, 38);
+}
+
+.card:last-child {
+    background-color: rgb(143, 61, 2);
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.card .icon {
+    width: 100px;
+    height: 100px;
+}
+
+.card img {
+    width: 100%;
+}
+
+h3 {
+    margin: 20px 0px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+span {
+    max-width: 220px;
+    margin-bottom: 100px;
+    color: rgb(255, 255, 255);
+    font-size: 90%;
+    
+}
+
+.card button {
+    padding: 0.8rem 0.9rem;
+    border-radius: 32px;
+    border: 0;
+    cursor: pointer;
+    text-transform: uppercase;
+    background-color: transparent;
+    border: 1px solid white;
+    color: rgb(255, 255, 255);
+    font-size: 0.7rem;
+    font-weight: 500;
+    transition: 0.5s;
+}
+
+.card button:hover {
+    margin-top: 20px;
+    max-width: 150px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(58, 2, 2);
+}
+
+@media screen and (max-width: 720px) {
+    body {
+        height: auto;
+    }
+
+    main.cards {
+        flex-direction: column;
+    }
+
+    section.card:first-child {
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 0;
+    }
+
+    .card:last-child {
+        border-bottom-left-radius: 15px;
+        border-top-right-radius: 0;
+    }
+}
