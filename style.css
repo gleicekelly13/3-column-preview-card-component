@@ -88,6 +88,10 @@ span {
     transition: 0.5s;
 }
 
+.violinoB {
+    margin-top: 1rem;
+}
+
 .card button:hover {
     margin-top: 20px;
     max-width: 150px;
