@@ -12,3 +12,8 @@ Projeto inspirado em um dos desafios do Frontend Mentor. O objetivo foi colocar 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/80974593/194686003-c45c2b6d-a516-497e-8442-935f15125936.png" width="300"/>
 </div>
+
+<h2 align="center">:hourglass: Status do projeto </h2>
+<h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4> 
+<h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
+<br>
