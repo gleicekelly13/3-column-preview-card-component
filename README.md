@@ -17,3 +17,6 @@ Projeto inspirado em um dos desafios do Frontend Mentor. O objetivo foi colocar 
 <h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4> 
 <h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
 <br>
+
+<h2 align="center"> :file_folder: Acesso ao projeto </h2>
+<p> Você pode acessar o projeto final clicando aqui: https://github.com/gleicekelly13/3-column-preview-card-component</p>
