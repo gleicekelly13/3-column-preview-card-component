@@ -1,4 +1,4 @@
-# Componente de cartão de visualização de 3 colunas
+<h1 align="center">Componente de cartão de visualização de 3 colunas</h1>
 Projeto inspirado em um dos desafios do Frontend Mentor. O objetivo foi colocar em prática conceitos básicos de html e css, e também me desafiar em criar layouts responsivos.
 
 ## :desktop_computer: Desktop design
