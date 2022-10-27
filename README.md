@@ -19,7 +19,7 @@ Projeto inspirado em um dos desafios do Frontend Mentor. O objetivo foi colocar 
 <br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
-<p> Você pode acessar o projeto final clicando aqui: https://github.com/gleicekelly13/3-column-preview-card-component</p>
+<p> Você pode acessar o projeto final clicando aqui: https://gleicekelly13.github.io/3-column-preview-card-component/</p>
 
 <br>
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
