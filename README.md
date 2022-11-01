@@ -22,7 +22,8 @@ Projeto inspirado em um dos desafios do Frontend Mentor. O objetivo foi colocar 
 <br>
 
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
-<p>
+<p>Ao clicar no botão "leia mais" o usuário é direcionado para o página do site para obter mais informações sobre os instrumentos musicais.</p>
+<br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://gleicekelly13.github.io/3-column-preview-card-component/</p>
