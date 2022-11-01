@@ -1,4 +1,5 @@
 <h1 align="center">Componente de cartão de visualização de 3 colunas</h1>
+<h2 align="center">:page_facing_up: Descrição do projeto</h2>
 Projeto inspirado em um dos desafios do Frontend Mentor. O objetivo foi colocar em prática conceitos básicos de html e css, e também me desafiar em criar layouts responsivos.
 
 ## :desktop_computer: Desktop design
@@ -6,12 +7,14 @@ Projeto inspirado em um dos desafios do Frontend Mentor. O objetivo foi colocar 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/80974593/187322455-b57807f2-9c90-40d6-afde-bb84da7d8de3.png" width="700"/>
 </div>
+<br>
 
 ## :iphone: Mobile design
 <br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/80974593/194686003-c45c2b6d-a516-497e-8442-935f15125936.png" width="300"/>
 </div>
+<br>
 
 <h2 align="center">:hourglass: Status do projeto </h2>
 <h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4> 
