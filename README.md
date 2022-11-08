@@ -1,6 +1,6 @@
 <h1 align="center">Componente de cartão de visualização de 3 colunas</h1>
 <h2 align="center">:page_facing_up: Descrição do projeto</h2>
-Projeto inspirado em um dos desafios do Frontend Mentor. O objetivo foi colocar em prática conceitos básicos de html e css, e também me desafiar em criar layouts responsivos.
+<p>Componente de cartão de visualização de 3 colunas, cujo objetivo é apresentar as informações e evidenciar os conteúdos específicos, com botões que direcionam o usuário direto para o site para obter mais informações.</p>
 
 ## :desktop_computer: Desktop design
 <br>
