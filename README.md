@@ -29,6 +29,7 @@
 <p>Aprimorar minhas habilidades em estruturar uma página e adicionar ícones.</p>
 <p>Edição de imagens.</p>
 <p>Melhorar na prática do flexbox.</p>
+<p>Uso das pseudo-classes: "first-child", "nth-child", "last-child".</p>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://gleicekelly13.github.io/3-column-preview-card-component/</p>
